@@ -16,6 +16,3 @@ Proceed to the directory where the code is located in your machine and enter the
 Use the following commands:
 > **python language_translator.py** 
 
-## Author & Contributors
-Author - github.com/Rid0y
-Contributor - github.com/ZU3AIR
