@@ -1,6 +1,8 @@
 # LANGUAGE TRANSLATOR
 
 This is a **Python3** application which performs dual way multiple language translations utilizing the **Tkinter GUI Toolkit**.
+![image](https://user-images.githubusercontent.com/89995670/132369626-6a09ec84-4ef1-4528-8dd3-9a94cd559e6d.png)
+
 
 
 # How to Run Application 
